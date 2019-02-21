@@ -29,11 +29,8 @@ This is first blockqute.
     * Blue
     
 *Text1*
-
-_Text2_
-**Text3**
-++Text4++
-~~Text5~~
+**Text2**
+~~Text3~~
 
 ********************************    
 Link: http://www.google.com "Go Google"
