@@ -28,6 +28,6 @@ This is first blockqute.
   * Green
     * Blue
 ********************************    
-Link: [Google][googlelink]
+Link: [googlelink]
 [googlelink]: http://www.google.com "Go Google"
 --------------------------------
