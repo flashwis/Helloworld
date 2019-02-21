@@ -28,7 +28,8 @@ This is first blockqute.
   * Green
     * Blue
     
-*Text*
+*Text1*
+
 _Text2_
 **Text3**
 ++Text4++
