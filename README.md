@@ -4,7 +4,7 @@ Header
 SubHeader
 ---------
 
-```
+```java
 System.out.println("Welcome");
 ```
 
