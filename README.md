@@ -27,6 +27,13 @@ This is first blockqute.
 * Red
   * Green
     * Blue
+    
+*Text*
+_Text2_
+**Text3**
+++Text4++
+~~Text5~~
+
 ********************************    
 Link: http://www.google.com "Go Google"
 --------------------------------
