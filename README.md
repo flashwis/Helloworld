@@ -20,14 +20,16 @@ This is first blockqute.
 > This is a second blockqute.
 >> This is a third blockqute.
 
-* ₩Red₩
+* `Red`
 * Green
 * Blue
 
 * Red
   * Green
     * Blue
-    
+  
+  
+
 *Text1*
 **Text2**
 ~~Text3~~
